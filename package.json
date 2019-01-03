@@ -1,0 +1,17 @@
+{
+    "name": "node-red-project",
+    "description": "A Node-RED Project",
+    "version": "0.0.1",
+    "private": true,
+    "dependencies": {
+        "node-red-contrib-graphs": "~0.3.5",
+        "node-red-contrib-light-scheduler": "0.0.11",
+        "node-red-contrib-modbus": "~4.0.0",
+        "node-red-contrib-pid-controller": "~0.1.4",
+        "node-red-contrib-python-function": "0.0.2",
+        "node-red-contrib-python3-function": "0.0.4",
+        "node-red-contrib-pythonshell": "~1.5.4",
+        "node-red-contrib-scheduler": "~1.0.5",
+        "node-red-dashboard": "~2.10.1"
+    }
+}
